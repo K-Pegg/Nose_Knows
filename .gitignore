@@ -160,6 +160,7 @@ cython_debug/
 #.idea/
 
 folder_to_ignore/data
+dir_to_ignore/data
 
 # Mac
 .DS_Store

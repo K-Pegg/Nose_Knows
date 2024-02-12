@@ -43,3 +43,14 @@ The following steps are planned to refine the model and enhance its performance:
    - leveraging pre-trained models to improve prediction accuracy
 3. Transitioning to web app production to facilitate user-friendly interface & access
 4. Incorporating mixed breeds into the model to broaden its scope and improve breed identification accuracy
+
+## Repo Structure
+
+```
+├── notebooks
+├── Final.ipynb
+├── .gitignore
+├── License
+├── environment.yml
+└── README.md
+```

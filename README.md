@@ -1,4 +1,5 @@
 # The Nose Knows: Dog Breed Classifier
+![a very close up of a dog snout](https://cdn.shopify.com/s/files/1/0554/6252/7165/articles/jp-image_e7e33b31-9892-4de1-b013-0b28b8c9b055.jpg?v=1621250046&width=1920)
 ## Overview
 In this project, I have used Keras and Tensorflow to develop, train, and test a convolutional neural network tailored for dog breed prediction. The application of AI in predicting dog breeds holds promise for mitigating the expenses associated with genetic testing. Leveraging machine learning techniques may uncover subtle features that humans cannot perceive. In this endeavor, I will explain the methodology for my process for classifing images of the diverse dog breed images.
 ## Business Problem
